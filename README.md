@@ -757,23 +757,6 @@ CONNECTED | 12 | 已连接
 -keep class * extends com.xiaomi.mipush.sdk.PushMessageReceiver{*;}
 
 ```
+项目地址:https://github.com/xuexiangjys/XPush
 
-## 特别感谢
 
-* [OnePush](https://github.com/pengyuantao/OnePush)
-* [keeplive](https://github.com/fanqieVip/keeplive)
-* [HelloDaemon](https://github.com/xingda920813/HelloDaemon)
-
-## 如果觉得项目还不错，可以考虑打赏一波
-
-> 你的打赏是我维护的动力，我将会列出所有打赏人员的清单在下方作为凭证，打赏前请留下打赏项目的备注！
-
-![pay.png](https://img.rruu.net/image/5f871d00045da)
-
-## 联系方式
-
-[![](https://img.shields.io/badge/点击一键加入QQ交流群-602082750-blue.svg)](http://shang.qq.com/wpa/qunwpa?idkey=9922861ef85c19f1575aecea0e8680f60d9386080a97ed310c971ae074998887)
-
-> 更多资讯内容，欢迎扫描关注我的个人微信公众号:【我的Android开源之旅】
-
-![gzh_weixin.jpg](https://img.rruu.net/image/5f871cfff3194)
